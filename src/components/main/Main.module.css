@@ -1,0 +1,6 @@
+.main{
+    height: 3000px;
+    width: 100%;
+    border: 2px solid red;
+    box-sizing: border-box;
+}

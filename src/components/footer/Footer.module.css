@@ -1,0 +1,24 @@
+.footer{
+    width: 100%;
+    border: 2px solid green;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+.footer-top{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* background-color: red; */
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid orange;
+}
+
+.footer-bottom{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+}

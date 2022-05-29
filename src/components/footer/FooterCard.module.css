@@ -1,0 +1,31 @@
+.footer-card{
+    padding:40px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    
+}
+
+.footer-card-title{
+    margin-bottom: 10px;
+    border: 1px solid black;
+    text-transform: uppercase;
+}
+
+.footer-card ul{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+   
+}
+.footer-card ul li{
+    display: inline;
+    border: 1px solid black;
+    text-transform: capitalize;
+}
+
+.footer-card a{
+    text-decoration: none;
+}
