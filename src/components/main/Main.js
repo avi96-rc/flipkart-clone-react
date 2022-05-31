@@ -1,12 +1,10 @@
-import React from 'react';
-import styles from './Main.module.css';
+import React from 'react'
+import styles from './Main.module.css'
 
-function Main(props) {
-    return (
-        <main className={styles.main}>
-            
-        </main>
-    );
+const Main = () => {
+  return (
+    <div className={styles.main}>Main</div>
+  )
 }
 
-export default Main;
+export default Main
